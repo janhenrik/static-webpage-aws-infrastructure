@@ -1,7 +1,1 @@
-{
-  "app": "npx ts-node bin/gundelsby.ts",
-  "context": {
-    "@aws-cdk/core:enableStackNameDuplicates": "true",
-    "aws-cdk:enableDiffNoFail": "true"
-  }
-}
+{ "app" : "python3 app.py" }
