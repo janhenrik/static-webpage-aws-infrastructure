@@ -9,7 +9,7 @@ Altså creates a write-user connected to the s3-bucket, to be used for deploymen
 
 # HOW
 * Make sure to change the domain and bucket names inside the code.
-* You also need to have a hosted zone in Route53, and update the code with the zone-id.
+* You also need to have an existing hosted zone in Route53, and update the code with the zone-id.
 
 And simply run...
 ```bash
