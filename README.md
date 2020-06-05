@@ -1,6 +1,6 @@
 # AWS infrastructure for a static-webpage
 
-Quick CDK-template in Python for hosting static websites (such as hugo, jekyll, etc.) on AWS S3, Cloudfront, Route53 and Certificate Manager. 
+Quick [CDK-template](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) in Python for hosting static websites (such as hugo, jekyll, etc.) on AWS S3, Cloudfront, Route53 and Certificate Manager. 
 
 The code gets everything ready, and even generates a public certificate. Note: The scripts take time to run the first time, because of validation of the certificate and propagation of the Cloudfront distribution. 
 
